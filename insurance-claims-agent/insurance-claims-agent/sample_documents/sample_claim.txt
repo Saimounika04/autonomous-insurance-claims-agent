@@ -1,0 +1,29 @@
+ACORD - AUTOMOBILE LOSS NOTICE (Sample)
+
+Policy Number: AUTO-998877-21
+Policyholder Name: John A. Smith
+Effective Date From: 01/15/2024
+Effective Date To: 01/15/2025
+
+Date of Loss: 04/22/2025
+Time of Loss: 14:30
+Location of Loss: 5th Avenue & Main St, Springfield, IL
+Description of Loss: Insured vehicle was rear-ended at a traffic light by a third party.
+No injuries reported. Front bumper and trunk damage to insured vehicle.
+
+Claimant Name: John A. Smith
+Claimant Phone: (555) 123-4567
+
+Third Party Name: Mary Johnson
+
+Vehicle: 2021 Toyota Camry
+VIN: 4T1BF1FK5HU123456
+License Plate: ABC-1234
+
+Estimated Damage: $4,500.00
+Initial Estimate: $4,500.00
+Claim Type: Collision
+
+Attachments:
+- police_report.pdf
+- damage_photos.zip

@@ -1,0 +1,28 @@
+ACORD - AUTOMOBILE LOSS NOTICE (Sample - Injury)
+
+Policy Number: AUTO-554433-19
+Policyholder Name: Linda Garcia
+Effective Date From: 03/01/2025
+Effective Date To: 03/01/2026
+
+Date of Loss: 05/02/2025
+Time of Loss: 09:10
+Location of Loss: I-95 Exit 23, Newark, NJ
+Description of Loss: Multi-vehicle collision causing bodily injury to claimant.
+Witness statements appear inconsistent with physical evidence.
+
+Claimant Name: Linda Garcia
+Claimant Phone: (555) 999-0000
+
+Third Party Name: Robert Chen
+
+Vehicle: 2019 Honda Civic
+VIN: 2HGFC2F59KH123987
+
+Estimated Damage: $42,000.00
+Initial Estimate: $42,000.00
+Claim Type: Injury
+
+Attachments:
+- hospital_report.pdf
+- police_report.pdf
